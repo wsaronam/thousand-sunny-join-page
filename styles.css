@@ -1,0 +1,47 @@
+@font-face {
+	src: url("fonts/one_piece_font.ttf");
+	font-family: OnePieceFont;
+}
+
+body {
+    color: #F4F2C3;
+	
+	text-align: center;
+	
+	font-family: 'Bubblegum Sans', sans-serif;
+	
+	margin: 0px;
+}
+
+#hero {
+	background-image: url("images/thousandSunny.webp");
+    background-size: cover;
+	
+	padding: 400px;
+	
+	margin-bottom: 20px;
+}
+
+#main-logo {
+	width: 800px;
+}
+
+#title {
+	text-shadow: 0px 0px 4px #393938;
+}
+
+.apply-button {
+	background-color: #60584E;
+	color: #F4F2C3;
+	font-size: 22px;
+	padding: 8px 18px;
+	border: none;
+	
+	font-family: inherit;
+	font-weight: 800;
+}
+
+.underline-utility {
+	text-decoration: underline;
+}
+
